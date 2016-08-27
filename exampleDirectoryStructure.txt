@@ -1,0 +1,25 @@
+.
+├── dnase/
+├── factorNames.txt
+├── full/
+│   ├── model/
+│   ├── nonVar/
+│   ├── res/
+│   └── SNPs/
+├── genome/
+│   ├── chromSizes.hg19.txt
+│   ├── variants.txt.gz
+│   ├── genome.fa
+│   └── genome.2bit
+├── initial/
+├── Makefile/
+├── pwms/
+│   ├── recal/
+│   │   ├── pwmFiles.new/
+│   │   └── pwmSNPs.sites/
+│   └── seed/
+│       ├── pwmFiles/
+│       ├── pwmScan.seq/
+│       └── pwmScan.sites/
+├── selPwms/
+└── src/
